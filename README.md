@@ -47,5 +47,3 @@ Adam Optimizer
 
 GPU : NVIDIA Geforce RTX 3060
 
-# Results
-Results and furthur details reported in this paper
